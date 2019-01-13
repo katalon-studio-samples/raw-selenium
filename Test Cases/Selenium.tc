@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>SeleniumSample</name>
+   <name>Selenium</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>66d4a4d3-fb26-4edb-a8e6-26a54608e081</testCaseGuid>
+   <testCaseGuid>adb25039-a3b6-4ad2-82d7-00d9a0524422</testCaseGuid>
 </TestCaseEntity>

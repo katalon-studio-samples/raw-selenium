@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>SelenideSample</name>
+   <name>Selenide</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>5273f1cf-c294-43e1-a9e0-1a8472118902</testCaseGuid>
