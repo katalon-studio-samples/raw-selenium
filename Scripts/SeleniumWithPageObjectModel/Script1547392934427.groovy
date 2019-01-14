@@ -10,14 +10,8 @@ WebUI.openBrowser("")
 
 WebDriver driver = DriverFactory.getWebDriver()
 
-// Navigate to the right place
 driver.get("http://www.google.com/")
-
-// Create a new instance of the search page class
-// and initialise any WebElement fields in it.
 GoogleSearchPage page = PageFactory.initElements(driver, GoogleSearchPage.class)
-
-// And now do the search.
 page.searchFor("Katalon Studio")
 
 Thread.sleep(3000)
