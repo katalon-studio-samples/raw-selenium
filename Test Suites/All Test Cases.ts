@@ -40,4 +40,16 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/SeleniumWithPageObjectModel</testCaseId>
    </testCaseLink>
+   <testCaseLink>
+      <guid>1a550a1c-b9ce-41dd-b3cb-a0a6e9b64e1e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Geb</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>58896c32-e615-4bdb-8cca-e27abc67e307</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/GebWithPageObjectModel</testCaseId>
+   </testCaseLink>
 </TestSuiteEntity>
